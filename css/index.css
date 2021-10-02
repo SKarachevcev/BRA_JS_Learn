@@ -7,3 +7,11 @@ fieldset
     float: right;
     margin: 0 0 5px 5px;
 }
+.t1
+{
+    border-spacing: 20px;
+}
+.tm
+{
+    background: rgb(105, 105, 105);
+}
